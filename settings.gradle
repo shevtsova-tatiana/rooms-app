@@ -1,0 +1,4 @@
+rootProject.name = 'rooms-app'
+
+include 'rooms'
+include 'rooms-react'
